@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/panopticon/precache-manifest.ba0253d579e76525139b45d971448d28.js"
+  "/panopticon/precache-manifest.518d1001200e3a8c0189a0a4710535be.js"
 );
 
 self.addEventListener('message', (event) => {
