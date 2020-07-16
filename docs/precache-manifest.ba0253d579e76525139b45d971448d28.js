@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aff37dcbf3f10d835cfefc297ddf4d77",
+    "revision": "ea8efa77f9064b5d8d9ab1692e270300",
     "url": "/panopticon/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panopticon/static/js/2.296c0775.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24839e9e17db57df0baf",
-    "url": "/panopticon/static/js/main.7f8f3bde.chunk.js"
+    "revision": "672f70687d72b4290c4f",
+    "url": "/panopticon/static/js/main.e4573dcc.chunk.js"
   },
   {
     "revision": "fb31980f556d7af2c172",
