@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/lightouts/static/js/main.783b8e7e.chunk.js",
-    "main.js.map": "/lightouts/static/js/main.783b8e7e.chunk.js.map",
-    "runtime-main.js": "/lightouts/static/js/runtime-main.598e6137.js",
-    "runtime-main.js.map": "/lightouts/static/js/runtime-main.598e6137.js.map",
-    "static/js/2.9a4dd4ca.chunk.js": "/lightouts/static/js/2.9a4dd4ca.chunk.js",
-    "static/js/2.9a4dd4ca.chunk.js.map": "/lightouts/static/js/2.9a4dd4ca.chunk.js.map",
-    "index.html": "/lightouts/index.html",
-    "precache-manifest.07cde92f43046510a8e475dabc4759da.js": "/lightouts/precache-manifest.07cde92f43046510a8e475dabc4759da.js",
-    "service-worker.js": "/lightouts/service-worker.js",
-    "static/js/2.9a4dd4ca.chunk.js.LICENSE.txt": "/lightouts/static/js/2.9a4dd4ca.chunk.js.LICENSE.txt"
+    "main.js": "/panopticon/static/js/main.7f8f3bde.chunk.js",
+    "main.js.map": "/panopticon/static/js/main.7f8f3bde.chunk.js.map",
+    "runtime-main.js": "/panopticon/static/js/runtime-main.83fe46cd.js",
+    "runtime-main.js.map": "/panopticon/static/js/runtime-main.83fe46cd.js.map",
+    "static/js/2.296c0775.chunk.js": "/panopticon/static/js/2.296c0775.chunk.js",
+    "static/js/2.296c0775.chunk.js.map": "/panopticon/static/js/2.296c0775.chunk.js.map",
+    "index.html": "/panopticon/index.html",
+    "precache-manifest.744abc1746baa66d8db98790136ea937.js": "/panopticon/precache-manifest.744abc1746baa66d8db98790136ea937.js",
+    "service-worker.js": "/panopticon/service-worker.js",
+    "static/js/2.296c0775.chunk.js.LICENSE.txt": "/panopticon/static/js/2.296c0775.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.598e6137.js",
-    "static/js/2.9a4dd4ca.chunk.js",
-    "static/js/main.783b8e7e.chunk.js"
+    "static/js/runtime-main.83fe46cd.js",
+    "static/js/2.296c0775.chunk.js",
+    "static/js/main.7f8f3bde.chunk.js"
   ]
 }
