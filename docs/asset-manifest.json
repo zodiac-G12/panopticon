@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/panopticon/static/js/main.e4573dcc.chunk.js",
-    "main.js.map": "/panopticon/static/js/main.e4573dcc.chunk.js.map",
+    "main.js": "/panopticon/static/js/main.d71bcb5c.chunk.js",
+    "main.js.map": "/panopticon/static/js/main.d71bcb5c.chunk.js.map",
     "runtime-main.js": "/panopticon/static/js/runtime-main.83fe46cd.js",
     "runtime-main.js.map": "/panopticon/static/js/runtime-main.83fe46cd.js.map",
     "static/js/2.296c0775.chunk.js": "/panopticon/static/js/2.296c0775.chunk.js",
     "static/js/2.296c0775.chunk.js.map": "/panopticon/static/js/2.296c0775.chunk.js.map",
     "index.html": "/panopticon/index.html",
-    "precache-manifest.518d1001200e3a8c0189a0a4710535be.js": "/panopticon/precache-manifest.518d1001200e3a8c0189a0a4710535be.js",
+    "precache-manifest.6dfcae451e82663c737e3fbd1fc1f201.js": "/panopticon/precache-manifest.6dfcae451e82663c737e3fbd1fc1f201.js",
     "service-worker.js": "/panopticon/service-worker.js",
     "static/js/2.296c0775.chunk.js.LICENSE.txt": "/panopticon/static/js/2.296c0775.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83fe46cd.js",
     "static/js/2.296c0775.chunk.js",
-    "static/js/main.e4573dcc.chunk.js"
+    "static/js/main.d71bcb5c.chunk.js"
   ]
 }
