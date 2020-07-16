@@ -24,7 +24,7 @@
     "pre-deploy": "rm -rf docs && npm run build && mv build docs",
     "git-auto": "git add --all && git commit -m autoPush && git push"
   },
-  "homepage": "/lightouts/",
+  "homepage": "/panopticon/",
   "eslintConfig": {
     "extends": "react-app"
   },
