@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7a70ade1e709a34388324499df85ec9",
+    "revision": "046761ebc017b51c2aac52fdb12a1260",
     "url": "/panopticon/index.html"
   },
   {
